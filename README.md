@@ -18,17 +18,11 @@ The purpose of this analysis is to find out if there's any correlation between t
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
     - The only difference now between the scores is that under 9th graders who attended Thomas High School it shows an NaN.
-
-### Scores by school spending
-
-The numbers stay nearly identical since the 9th graders are nullified from the statistics.
-
-### Scores by school size
-
-Overall passing percentage does not change.
-
-### Scores by school type
-
-Scores by school type are not altered at all.
+  - Scores by school spending
+    - The numbers stay nearly identical since the 9th graders are nullified from the statistics.
+  - Scores by school size
+    - Overall passing percentage does not change.
+  - Scores by school type
+    - Scores by school type are not altered at all.
 
 ## Summary
