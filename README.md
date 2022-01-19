@@ -2,7 +2,7 @@
 
 ## Overview of School District Analysis
 
-The purpose of this analysis is to find out if there's any correlation between the budget per student and the overall passing percentages across a pool of high schools.  Based on the analysis, it was discovered that some 9th graders at Thomas High School had incorrect test scores, which led to the request for updated data analysis.  It was determined that the best decision was to update/replace specific 9th grade math and reading scores at Thomas High School, while keeping the integrity of all other data consistent.  Incorrect math and reading scores were replaced with the value "NaN", or "Not-a-number".  
+The purpose of this analysis is to find out if there's any correlation between the budget per student and the overall passing percentages across a pool of high schools.  Based on the analysis, it was discovered that 9th graders at Thomas High School had incorrect test scores, which led to the request for updated data analysis.  It was determined that the best decision was to update/replace specific 9th grade math and reading scores at Thomas High School, while keeping the integrity of all other data consistent.  Incorrect math and reading scores were replaced with the value "NaN", or "Not-a-number".  
 
 ## Results
 
