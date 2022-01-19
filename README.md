@@ -7,22 +7,24 @@ The purpose of this analysis is to find out if there's any correlation between t
 ## Results
 
 - How is the district summary affected?
-  - After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
+  - The district does not appear to be impacted by the change in data between pycityschools and pycityschools_challenge.
 
 - How is the school summary affected?
-  - The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
+  - For Thomas High School, the overall passing percentage is at 90.94%, but by taken out the 9th Grade scores the overall passing shrinks by 0.3%.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - Overall it does not affect either the reading scores or math scores. We are doing an investigation because we believe they are not including most of the 9th graders scores because they might bring the school even further down in test scores.
+  - The math or reading scores are not impacted.  But upon further investigation it appears that not all 9th Graders' scores are being included, which may potentially lower the school test scores.
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
-    - The only difference now between the scores is that under 9th graders who attended Thomas High School it shows an NaN.
+    - For 9th Graders at Thomas High School, the score nows shows as NaN,
   - Scores by school spending
-    - The numbers stay nearly identical since the 9th graders are nullified from the statistics.
+    - Since the 9th Grader scores are now not included, the scores stay nearly identical.
   - Scores by school size
-    - Overall passing percentage does not change.
+    - The overall passing percentage does not change.
   - Scores by school type
-    - Scores by school type are not altered at all.
+    - The scores by school type barely changes at all.
 
 ## Summary
+
+By replacing the scores of 9th Graders at Thomas High School, the result is that not much has changed for overall statistics.  Values were nullified that may have had a potential impact on size, district, spending and overall passing percengate of students.
