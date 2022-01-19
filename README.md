@@ -7,7 +7,7 @@ The purpose of this analysis is to find out if there's any correlation between t
 ## Results
 
 - How is the district summary affected?
--- After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
+  - After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
 
 - How is the school summary affected?
 -- The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
