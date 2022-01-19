@@ -1,4 +1,4 @@
-# School District Analysis
+School District Analysis
 
 ## Overview of School District Analysis
 
