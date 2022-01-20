@@ -12,6 +12,7 @@ The purpose of this analysis is to find out if there's any correlation between t
 
 - How is the school summary affected?
   - For Thomas High School, the percentage passing math fell from 93.3% to 66.9%.  The percentage passing reading fell from 97.3% to 69.7%.  And for overall passing percentage, Thomas High School fell from 90.9% to 65.1%.
+  - ![](Screenshots/District_Summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Once the 9th grade scores were omitted and 10-12th grade scores were only included for Thomas High School, there wasn't any ranking change and the school still placed as #2 for overall passing percentage.  In total, their overall passing percentage only changed only minimally by <1%.  As such, the bottom 5 ranked schools had no impact from this change either since Thomas High School never fell in to that category. 
