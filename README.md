@@ -9,6 +9,8 @@ The purpose of this analysis is to find out if there's any correlation between t
 - How is the district summary affected?
   - Compared against the original dataset and across all 15 schools, the average math score dropped 0.1%, the average reading score remained unchanged, the percentage passing math dropped 0.2%, the percentage passing reading dropped 0.3%, and the overall passing percent dropped 0.1%.
 
+![](Screenshots/District_Summary.png)
+
 - How is the school summary affected?
   - For Thomas High School, the percentage passing math fell from 93.3% to 66.9%.  The percentage passing reading fell from 97.3% to 69.7%.  And for overall passing percentage, Thomas High School fell from 90.9% to 65.1%.
 
