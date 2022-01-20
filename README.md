@@ -28,6 +28,10 @@ The purpose of this analysis is to find out if there's any correlation between t
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
     - For 9th Graders at Thomas High School, the score nows shows as NaN for both average math and reading scores by grade.  However average grades for grade levels 10-12 remained unchanged as there was no manipulated data in these groupings.
+      - Math Scores
+      ![](Screenshots/Math_Scores.png)
+      - Reading Scores
+      ![](Screenshots/Reading_Scores.png)
   - Scores by school spending
     - The $630-644 per student grouping saw the only change as this is where Thomas High School was grouped, however the change is small with each metric changing less than 0.1% in total.
 
