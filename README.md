@@ -15,7 +15,11 @@ The purpose of this analysis is to find out if there's any correlation between t
 ![](Screenshots/School_Summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - Once the 9th grade scores were omitted and 10-12th grade scores were only included for Thomas High School, there wasn't any ranking change and the school still placed as #2 for overall passing percentage.  In total, their overall passing percentage only changed only minimally by <1%.  As such, the bottom 5 ranked schools had no impact from this change either since Thomas High School never fell in to that category. 
+  - Once the 9th grade scores were omitted and 10-12th grade scores were only included for Thomas High School, there wasn't any ranking change and the school still placed as #2 for overall passing percentage.  In total, their overall passing percentage only changed only minimally by <1%.  As such, the bottom 5 ranked schools had no impact from this change either since Thomas High School never fell in to that category.
+    - Top 5 Ranked Schools
+    - ![](Screenshots/Top_5.png)
+    - Bottom 5 Ranked Schools
+    - ![](Screenshots/Bottom_5.png)
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
