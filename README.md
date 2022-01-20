@@ -26,8 +26,10 @@ The purpose of this analysis is to find out if there's any correlation between t
     - For 9th Graders at Thomas High School, the score nows shows as NaN for both average math and reading scores by grade.  However average grades for grade levels 10-12 remained unchanged as there was no manipulated data in these groupings.
   - Scores by school spending
     - The $630-644 per student grouping saw the only change as this is where Thomas High School was grouped, however the change is small with each metric changing less than 0.1% in total.
+![](Screenshots/School_Summary.png)
   - Scores by school size
     - The scores for the Medium (1000-2000) size schools changed slightly, but by only <1% which seems pretty in-line with how other observed areas have been changing. Since Thomas High School has 1,635 students, they were included in this group and thus the only one to change.
+![](Screenshots/School_Summary.png)
   - Scores by school type
     - With Thomas High School being a charter school, that was the only bucket to change here, with no change occuring for district schools.  However, the change was again very minimal, with a decline of <0.1% for overall passing percentage.  Charter schools still heavily outperform district schools when looking at overall passing percentage alone.
 
